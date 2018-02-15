@@ -68,4 +68,4 @@ Replicate each of your graphs using Tableau or some other WYSIWYG visualization 
 Complete the “Xs and Ys” bell. Then, for each pair of charts, when you mouse over a bar in one graph, it should highlight that bar and the bar in the corresponding graph. For example, if you mouse over a bar representing an x-value, the corresponding y-value bar should also be highlighted. You can only receive credit for one of this and the “Xs and Ys” bell.
 
 
-I'm working with YanPeng, Zhixing Change, Zening Li. We finished part 1 to part 5. And some extra credit. When we click the bar chart, we the color will change. When you click the point, the coordinate will show up. 
+I'm working with YanPeng, Zhixing Change, Zening Li. We finished part 1 to part 5. And some extra credit. When we click the bar chart, we the color will change. When you click the point, the coordinate will show up. Tooltips part also been down. and Background changes.
